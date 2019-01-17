@@ -1,0 +1,26 @@
+.addPost {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.addPost span {
+    width: 97%;
+    margin-bottom: 20px;
+}
+
+.addPost span input[type="text"] {
+    padding: 10px;
+    width: 100%;
+}
+
+.addPost__editor {
+    height: 400px;
+    margin-bottom: 50px;
+}
+
+.addPost__button {
+    height: 50px;
+}

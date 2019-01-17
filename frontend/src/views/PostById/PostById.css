@@ -1,0 +1,25 @@
+.post {
+    width: 100%;
+}
+
+.post__comments {
+    margin-top: 50px;
+    width: 100%;
+}
+
+.post__comments input[type="text"] {
+    padding: 10px;
+}
+
+.comments__name {
+    width: 10%;
+}
+
+.comments__comment {
+    width: 60%;
+}
+
+.comments__send {
+    padding: 10px;
+    width: 20%;
+}

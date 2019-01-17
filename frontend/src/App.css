@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100ww;
+    height: 100vh;
+}
+
+.app {
+    background-color: rgb(241, 241, 241);
+    width: 100%;
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.app__navigate {
+    width: 100%;
+}
+
+.app__content {
+    width: 80%;
+    min-height: 100vh;
+}
